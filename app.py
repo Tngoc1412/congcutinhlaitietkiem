@@ -3,7 +3,7 @@ import streamlit as st
 # Cấu hình trang
 st.set_page_config(page_title="Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
 
-st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
+st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm_NGUYỄN HỒ THẢO NGỌC")
 
 # Tạo form nhập liệu với 2 cột cho gọn gàng
 col1, col2 = st.columns(2)
